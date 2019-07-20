@@ -1,1 +1,1 @@
-una prueba de remote para utilizar el comando 'remote -v'
+una prueba de remote para utilizar el comando 'git remote -v'
